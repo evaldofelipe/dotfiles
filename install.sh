@@ -124,6 +124,7 @@ brew install dos2unix
 brew install yarn
 brew install mongodb
 brew install shellcheck
+brew install packer
 
 # Install brew cask and other apps
 brew tap phinze/homebrew-cask

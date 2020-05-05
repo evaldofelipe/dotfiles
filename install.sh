@@ -125,6 +125,7 @@ brew install yarn
 brew install mongodb
 brew install shellcheck
 brew install packer
+brew install wireguard-tool
 
 # Install brew cask and other apps
 brew tap phinze/homebrew-cask

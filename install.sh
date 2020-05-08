@@ -170,6 +170,7 @@ brew cask install discord
 brew cask install google-cloud-sdk
 brew cask install tor-browser
 brew cask install riot
+brew cask install keepassxc
 
 # Add sublime command
 ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl

@@ -127,6 +127,7 @@ brew install shellcheck
 brew install packer
 brew install wireguard-tool
 brew install helm
+brew install minikube
 
 # Install brew cask and other apps
 brew tap phinze/homebrew-cask

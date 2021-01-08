@@ -131,6 +131,7 @@ brew install packer
 brew install wireguard-tool
 brew install helm
 brew install minikube
+brew install signal
 
 # Install brew cask and other apps
 brew tap phinze/homebrew-cask
@@ -175,6 +176,7 @@ brew cask install google-cloud-sdk
 brew cask install tor-browser
 brew cask install riot
 brew cask install keepassxc
+brew cask install visual-studio-code
 
 # Add sublime command
 ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl

@@ -89,6 +89,7 @@ brew install ipcalc
 brew install gettext
 brew install gpg
 brew install postgresql
+brew install gh
 
 # Install other useful binaries.
 brew install ack

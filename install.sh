@@ -136,48 +136,40 @@ brew install signal
 
 # Install brew cask and other apps
 brew tap phinze/homebrew-cask
-brew install brew-cask
-brew cask install alfred
-brew cask install iterm2
-# brew cask install caffeine
-# brew cask install spectacle
-# brew cask install imageoptim
-brew cask install dropbox
-brew cask install google-chrome
-# brew cask install google-drive
-brew cask install flux
-brew cask install whatsapp
-brew cask install slack
-# brew cask install franz
-brew cask install skype
-brew cask install sequel-pro
-# brew cask install polymail
-# brew cask install vox
-brew cask install rescuetime
-brew cask install sublime-text
-brew cask install atom
-brew cask install virtualbox
-brew cask install docker
-brew cask install 0ad
-brew cask install vagrant
-# brew cask install the-unarchiver
-brew cask install github-desktop
-brew cask install github
-brew cask install appzapper
-brew cask install flycut
-brew cask install keybase
-brew cask install vlc
-brew cask install steam
-brew cask install deckset
-brew cask install java
-brew cask install java8
-brew cask install firefox
-brew cask install discord
-brew cask install google-cloud-sdk
-brew cask install tor-browser
-brew cask install riot
-brew cask install keepassxc
-brew cask install visual-studio-code
+brew install --cask alfred
+brew install --cask iterm2
+brew install --cask dropbox
+brew install --cask google-chrome
+brew install --cask flux
+brew install --cask whatsapp
+brew install --cask slack
+brew install --cask skype
+brew install --cask sequel-pro
+brew install --cask rescuetime
+brew install --cask sublime-text
+brew install --cask atom
+brew install --cask virtualbox
+brew install --cask docker
+brew install --cask 0ad
+brew install --cask vagrant
+brew install --cask github-desktop
+brew install --cask github
+brew install --cask appzapper
+brew install --cask flycut
+brew install --cask keybase
+brew install --cask vlc
+brew install --cask steam
+brew install --cask deckset
+brew install --cask java
+brew install --cask java8
+brew install --cask firefox
+brew install --cask discord
+brew install --cask google-cloud-sdk
+brew install --cask tor-browser
+brew install --cask riot
+brew install --cask keepassxc
+brew install --cask visual-studio-code
+brew install --cask finicky
 
 # Add sublime command
 ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
